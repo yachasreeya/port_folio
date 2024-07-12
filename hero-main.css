@@ -1,0 +1,8 @@
+.main-hero{
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    margin-right: 100px;
+    height: 700px;
+}
